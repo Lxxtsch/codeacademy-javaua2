@@ -11,4 +11,5 @@
     <packaging>jar</packaging>
 
     <name>json-jackson</name>
+
 </project>
